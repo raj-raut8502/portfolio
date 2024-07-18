@@ -5,5 +5,3 @@ services:
     build: .
     environment:
       - NODE_ENV=development
-    command: npm run dev
-    network_mode: "host"
