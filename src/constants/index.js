@@ -23,7 +23,8 @@ import {
     Cloud,
     Github,
     python,
-    Linux
+    Linux,
+    aws
   } from "../assets";
   
   export const navLinks = [
@@ -98,8 +99,8 @@ import {
       icon: typescript,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "aws",
+      icon: aws,
     },
     {
       name: "React JS",
