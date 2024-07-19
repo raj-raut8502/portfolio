@@ -23,6 +23,7 @@ import Cloud from "./tech/Cloud.png"
 import python from "./tech/python.png"
 import Github from "./tech/github.png"
 import Linux from "./tech/penguin.png"
+import aws from "./tech/aws.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -63,4 +64,5 @@ export {
   python,
   Github,
   Linux,
+  aws,
 };
